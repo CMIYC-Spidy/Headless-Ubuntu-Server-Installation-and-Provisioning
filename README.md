@@ -1,4 +1,4 @@
-<h1><b>Headless Ubuntu Server</b> Installation & Provisioning</h1>
+<h1 align="center"><b>Headless Ubuntu Server</b> Installation & Provisioning</h1>
 
 <div style="background-color: #1e1e1e; padding: 15px; border-radius: 5px; border-left: 5px solid #007acc;">
   <strong>System Summary:</strong>
